@@ -111,10 +111,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manar Shahin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manar Shahin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eslam Hatem&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Manar Shahin" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam Hatem&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Manar Shahin" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -123,7 +123,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/manarshahin48"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/eslamhatem1"><img alt="Eslam Hatem Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -131,6 +131,6 @@
 
 ### :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarshahin48&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarshahin48&layout=compact&theme=algolia" alt="Eslam Hatem" /></a> </p>
 
 
