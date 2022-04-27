@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Eslam Hatem</h1>
 <h3 align="center">Full Stack Web Developer Using DotNet</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://badges.pufler.dev/repos/manarshahin48" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamhatem1&label=Profile%20views&color=0e75b6&style=flat" alt="eslamhatem1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamhatem1" alt="eslamhatem1" /></a> </p>
 
-- :school: I am a `Junior` at Faculty of Computers & Information at Nahda University
-- 🔭 I’m currently working on FrontEnd Projects
-- 🌱 I’m currently learning `React` 
+- 🔭 I’m currently working on **FrontEnd Projects**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Angular, sql, Api**
+
 - 📫 How to reach me **eslamhatem523@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1y12hB7HVm2qXRh59lwwN7hKCAM7jfqUf/view?usp=sharing).
-- :nerd_face: Always `learning new things`
-<br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:manarshahin48@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/manarshahin48"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/manarshahin48 /"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/manarshahin48"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/eslam-hatem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eslam-hatem" height="30" width="40" /></a>
+<a href="https://medium.com/@eslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eslam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/eslamhatem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eslamhatem" height="30" width="40" /></a>
 </p>
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=algolia" /></p>
@@ -52,85 +50,5 @@
   </a>
 </p>
 
-### 🔵 Frontend Development
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/react%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
-  </a>
-</p>
-
-### 🔵 Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-</p>
-
-### 🔵 Mobile Development 
- 
-<p align="center">
-  &emsp;
-    <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23F05033.svg?style=plastic&logo=flutter&logoColor=white"></a>
-  &emsp;
-    <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/dart-%23181717.svg?style=plastic&logo=dart&logoColor=white"></a>
-  &emsp;
-    <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-0078d7.svg?style=plastic&logo=react&nativeColor=white"></a>
-  &emsp;
-</p>
-
-### 🔵 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Andriod%20Studio-0078d7.svg?&style=plastic&logo=android&studioColor=white" /></a>
-  &emsp;
- </p>
- 
- ## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manar Shahin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eslam Hatem&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam Hatem&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Manar Shahin" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/eslamhatem1"><img alt="Eslam Hatem Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-### :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarshahin48&layout=compact&theme=algolia" alt="Eslam Hatem" /></a> </p>
 
 
