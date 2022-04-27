@@ -98,7 +98,8 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manar Shahin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eslam Hatem&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  
+  &nbsp;
+   </p>
  
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
