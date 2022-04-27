@@ -45,7 +45,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/> </a>
 </p>
 
 ### 🔵 Frontend Development
@@ -61,7 +61,7 @@
   </a> 
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/react%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23E34F26.svg?style=plastic&logo=Angular&logoColor=white">
   </a>
 </p>
 
