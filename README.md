@@ -94,9 +94,9 @@
  
  
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/eslamhatem1"><img alt="Eslam Hatem Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EslamHatem&custom_title=Eslam%20Hatem%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/eslamhatem1"><img alt="Eslam Hatem Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EslamHatem48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
