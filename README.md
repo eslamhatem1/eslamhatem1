@@ -46,7 +46,7 @@
    </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+     <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
 
