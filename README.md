@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamhatem1&label=Profile%20views&color=0e75b6&style=flat" alt="eslamhatem1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamhatem1" alt="eslamhatem1" /></a> </p>
+
 
 - 🔭 I’m currently working on **FrontEnd Projects**
 
@@ -82,15 +82,6 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
-### 🔵 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio%20Studio-0078d7.svg?&style=plastic&logo=android&studioColor=white" /></a>
-  &emsp;
- </p>
 
 
 
