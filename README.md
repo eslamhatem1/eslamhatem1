@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Hatem</h1>
-<h3 align="center">Full Stack Web Developer Using DotNet</h3>
+<h3 align="center">Full Stack Web Developer Using DotNet | Angular</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamhatem1&label=Profile%20views&color=0e75b6&style=flat" alt="eslamhatem1" /> </p>
 
